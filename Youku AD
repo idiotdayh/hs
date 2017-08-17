@@ -1,3 +1,5 @@
+127.0.0.1	localhost
+::1	localhost ip6-localhost ip6-loopback
 127.0.0.0 account.youku.com 
 127.0.0.0 acs4baichuan.m.taobao.com 
 127.0.0.0 actives.youku.com 
