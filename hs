@@ -1,7 +1,3 @@
-# Go Hosts
-# 2017-08-15 22:05:13
-
-
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
 216.58.200.192	www.google.com
