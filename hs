@@ -1,4 +1,6 @@
-#2017年8月25日上午10：22
+# Go Hosts
+# 2017-08-23 23:33:18
+
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
