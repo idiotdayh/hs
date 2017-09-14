@@ -1,21 +1,6 @@
 #2017年9月14日下午2：04
-# Copyright (c) 2014-2017, racaljk.
-# https://github.com/racaljk/hosts
-# Last updated: 2017-09-13
-
-# https://laod.cn/hosts/2017-google-hosts.html
-
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-# Modified Hosts Start
-
-# Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
-::1	localhost
-::1	ip6-localhost
-::1	ip6-loopback
-# Localhost (DO NOT REMOVE) End
+::1	localhost ip6-localhost ip6-loopback
 
 # Amazon AWS Start
 54.239.31.69	aws.amazon.com
