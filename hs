@@ -1,9 +1,6 @@
-#更新于2017年10月3日上午7：55分
-#本次更新：能用就行了……失效比较快
-#
-#
-#
-#
+# Go Hosts
+# 2017-10-02 18:18:15
+
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
